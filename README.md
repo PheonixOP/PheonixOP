@@ -1,7 +1,7 @@
-# 🔭 I’m currently working on myself
+# 🔭 I’m working on myself
 # 🌱 I’m currently learning Software Engineering with ALX
-# 👯 I’m looking to collaborate on Full-stack Web Dev & Data Analytics Projects
-# 🤔 I’m looking for help with Optimizing coding skills
+# 👯 I’m looking to collaborate on Full-stack Dev. & Data Science Projects
+# 🤔 I’m looking for help with Optimizing my coding skills
 # 📫 How to reach me: Linkedin.com/in/Pheonixop
 # ⚡ Fun fact: I have a passion for dancing & anime ✨
 
