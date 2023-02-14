@@ -1,4 +1,4 @@
-## 🔭 I’m working on myself
+## 🔭 I’m constantly working on myself
 ## 🌱 I’m currently learning Software Engineering with ALX
 ## 👯 I’m looking to collaborate on Full-stack Dev. & Data Science Projects
 ## 🤔 I’m looking for help optimizing my coding skills
